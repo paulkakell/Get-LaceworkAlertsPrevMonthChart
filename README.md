@@ -1,3 +1,4 @@
+![Lacework Monthly Alert Chart](lw-alerts-prev-month.png)
 ---
 
 # Lacework Threat Center Monthly Alert Report
