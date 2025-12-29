@@ -1,5 +1,3 @@
-Below is a comprehensive, production ready **README.md** you can place at the root of the GitHub repository for this script. It is written for technical practitioners but remains readable for security managers and auditors.
-
 ---
 
 # Lacework Threat Center Monthly Alert Report
